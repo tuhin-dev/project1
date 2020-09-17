@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+hr{
+    width: 50px;
+    height: 2px;
+    background-color:#f38181;
+}
+p{
+    font-size: 16px; 
+    color: rgb(119, 118, 116);
+}
+
+.header-area{
+    max-width: 100%;
+    background-image: url(images/headerbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header-area i{
+    color: #fff;
+}
+ul li a{
+    color: rgb(248, 236, 236);
+}
+ul li a:hover{
+   margin: 0;
+   padding: 0; 
+   color: rgb(255, 255, 255);
+
+}
+.header-content h2{
+    font-size: 50px; 
+    font-weight: 700;
+    letter-spacing: 5px;
+   
+}
+.header-content hr{
+    background-color: #fff;
+}
+.btn {
+    border: 2px solid #fff !important;
+}
+.btn:hover{
+    background-color: #fff !important;
+    color: orange !important;
+    font-weight: 700;
+}
+.about-image:hover{
+  opacity: .8;
+}
+
+/* PROJECTS NUMBER */
+.project-number{
+    background-color: #95e1d3;
+}
+.project-number h2{
+    color: #fff;
+    font-weight: 600;
+}
+.project-number h4{
+    font-size: 15px;
+    color: #fff;
+}
+
+/* SERVICE SECTION  */
+.service img{
+    padding-right: 10px;
+    padding-top: 7px;
+}
+.service p{
+    font-size: 14px;
+}
+.service h5{
+    font-size: 16px !important;
+}
+
+/* UNIQUE CONTENT */
+.unique-design{
+    height:600px;
+    background-image: url(images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.unique-design img{
+    height: 400px;
+}
+.dev2{
+    margin-left:360px;
+    margin-top: -310px;
+}
+.what-do p{
+    font-size: 14px;
+
+}
+.accordion img{
+    margin-right: 7px;
+}
+.client{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.client img{
+    width: 170px !important;
+    
+    height: 200px;
+    border-radius: 50% !important;
+    margin-bottom: 10px;
+ 
+}
+.people img{
+    width: 160px !important;
+    height:150px;
+    border-radius: 50% !important;
+
+
+ 
+}
+.people .content{
+   padding-top: 30px;
+}
+.client p{
+    font-size: 14px;
+    padding-top:10px !important;
+}
+
+.client h3{
+  margin-top: -15px;
+    font-size: 30px;
+}
+
+
+.people{
+    background-image: url(images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.people img{
+    margin-right: 14px;
+}
+.map{
+    background-image: url(images/bg4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.map h2{
+    color: #f14646;
+}
+.map i{
+    font-size: 30px;
+    color: #fc3737;
+}
+
+.footer{
+    background-color: rgb(219, 215, 207);
+}
+.left-content h2{
+    font-size: 18px;
+}
+.left-content i{
+    font-size: 18px;
+    padding: 5px 10px;
+    color: #054e41;
+}
+.left-content i:hover{
+    color: rgb(228, 131, 131);
+}
+.footer h3{
+    color: rgb(110, 109, 105);
+}
+.footer p{
+    font-size: 14px;
+    color:  rgb(110, 109, 105);
+}
